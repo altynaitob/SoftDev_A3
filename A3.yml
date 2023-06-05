@@ -1,0 +1,8 @@
+name: a3
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - folium
+  - geopandas
+prefix: C:\Users\altyn\miniconda3\envs\a3
